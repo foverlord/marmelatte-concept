@@ -1,0 +1,7 @@
+{
+  "name": "marmelatte-concept",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "../site" },
+  "workers_dev": true,
+  "preview_urls": true
+}
